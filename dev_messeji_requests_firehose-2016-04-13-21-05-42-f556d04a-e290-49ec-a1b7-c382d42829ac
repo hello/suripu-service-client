@@ -1,0 +1,6 @@
+{
+  "entries" : [ {
+    "url" : "s3://hello-firehose/dev_messeji_requests_firehose2016/04/13/21/dev_messeji_requests_firehose-1-2016-04-13-21-05-40-386f3eb5-fd8f-446f-87b0-96ef91bee16c.gz",
+    "mandatory" : true
+  } ]
+}
